@@ -15,6 +15,13 @@ File: wondercms-main/index.php<br>
    ![alt text](https://github.com/patrickdeanramos/WonderCMS-version-3.4.3-SVG-Stored-Cross-Site-Scripting/blob/main/wondercms-svg-2.png?raw=True)
 
 
-<B>Remediation</B> 
+<B>Remediation</B><br>
 https://github.com/WonderCMS/wondercms/issues/56
+
+Authors:<br>
+Patrick Dean Ramos<br>
+Nathu Nandwani<br>
+Junnair Manla<br>
+Kevin Rosales<br>
+
 
