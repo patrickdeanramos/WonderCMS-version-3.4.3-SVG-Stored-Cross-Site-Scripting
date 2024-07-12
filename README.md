@@ -7,7 +7,7 @@ File: wondercms-main/index.php<br>
 2781: public function uploadFileAction(): void<br>
 2816: 'image/svg+xml',<br>
 
-Reproduction: 
+<B>Reproduction:</B> 
 1. Log in to the admin page.
 2. Click on 'Files' and upload the SVG file containing the malicious code.
    ![alt text](https://github.com/patrickdeanramos/WonderCMS-version-3.4.3-SVG-Stored-Cross-Site-Scripting/blob/main/wondercms-svg-1.png?raw=True)
@@ -15,6 +15,6 @@ Reproduction:
    ![alt text](https://github.com/patrickdeanramos/WonderCMS-version-3.4.3-SVG-Stored-Cross-Site-Scripting/blob/main/wondercms-svg-2.png?raw=True)
 
 
-   
-
+<B>Remediation</B> 
+https://github.com/WonderCMS/wondercms/issues/56
 
