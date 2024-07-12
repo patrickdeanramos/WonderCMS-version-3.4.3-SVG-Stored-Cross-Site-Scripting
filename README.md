@@ -10,5 +10,11 @@ File: wondercms-main/index.php<br>
 Reproduction: 
 1. Log in to the admin page.
 2. Click on 'Files' and upload the SVG file containing the malicious code.
-3. Click 'Upload' and then click on the URL to trigger the stored XSS vulnerability.
+   ![alt text](https://github.com/patrickdeanramos/WonderCMS-version-3.4.3-SVG-Stored-Cross-Site-Scripting/blob/main/wondercms-svg-1.png?raw=True)
+4. Click 'Upload' and then click on the URL to trigger the stored XSS vulnerability.
+   ![alt text](https://github.com/patrickdeanramos/WonderCMS-version-3.4.3-SVG-Stored-Cross-Site-Scripting/blob/main/wondercms-svg-2.png?raw=True)
+
+
+   
+
 
