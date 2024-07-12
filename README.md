@@ -2,7 +2,7 @@
 
 WonderCMS version 3.4.3 is vulnerable to stored cross-site scripting (XSS) during file uploads involving SVG files. This flaw allows attackers to execute scripts in the browsers of unsuspecting users. The attack is executed by uploading a specially crafted SVG file containing malicious scripts, which are then rendered by the browser.
 
-Vulnerable Code:<br>
+<B>Vulnerable Code:</B><br>
 File: wondercms-main/index.php<br>
 2781: public function uploadFileAction(): void<br>
 2816: 'image/svg+xml',<br>
